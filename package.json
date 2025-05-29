@@ -1,0 +1,17 @@
+{
+  "name": "coding_challanges",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.3.4"
+  }
+}
