@@ -8,7 +8,7 @@ This repository is a personal collection of TypeScript coding challenges designe
 
 ## 📁 Project Structure
 
-```text
+``` 
 coding_challenges/
 ├── typescript/
 │   ├── basic/
