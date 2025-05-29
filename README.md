@@ -97,5 +97,3 @@ This repository serves as a playground to:
 * Build a habit of solving coding problems regularly
 
 ```
-
-```
