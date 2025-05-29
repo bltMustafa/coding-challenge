@@ -1,15 +1,14 @@
 
 ---
 
-```md
+````md
 # 🧠 TypeScript Coding Challenges
 
 This repository is a personal collection of TypeScript coding challenges designed to improve my problem-solving and functional programming skills. Each challenge is implemented in TypeScript and tested using **Jest**.
 
 ## 📁 Project Structure
 
-```
-
+```text
 coding_challenges/
 ├── typescript/
 │   ├── basic/
@@ -22,17 +21,15 @@ coding_challenges/
 ├── package.json
 ├── tsconfig.json
 └── README.md
-
-
 ````
 
 ## ⚙️ Tech Stack
 
-| Tool          | Description                               |
-|---------------|-------------------------------------------|
-| TypeScript    | Strongly-typed JavaScript                 |
-| Bun           | Fast JavaScript runtime & package manager |
-| Jest          | JavaScript testing framework              |
+| Tool       | Description                               |
+| ---------- | ----------------------------------------- |
+| TypeScript | Strongly-typed JavaScript                 |
+| Bun        | Fast JavaScript runtime & package manager |
+| Jest       | JavaScript testing framework              |
 
 ## 🚀 Getting Started
 
@@ -40,7 +37,7 @@ coding_challenges/
 
 ```bash
 bun install
-````
+```
 
 ### Run the project
 
@@ -99,3 +96,6 @@ This repository serves as a playground to:
 * Prepare for technical interviews
 * Build a habit of solving coding problems regularly
 
+```
+
+```
