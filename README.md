@@ -10,7 +10,7 @@ This repository is a personal collection of TypeScript coding challenges designe
 
 ```
 
-coding\_challenges/
+coding_challenges/
 ├── typescript/
 │   ├── basic/
 │   │   ├── countLetter.ts
@@ -22,6 +22,7 @@ coding\_challenges/
 ├── package.json
 ├── tsconfig.json
 └── README.md
+
 
 ````
 
@@ -98,11 +99,3 @@ This repository serves as a playground to:
 * Prepare for technical interviews
 * Build a habit of solving coding problems regularly
 
-## 📄 License
-
-This project is for personal learning purposes. Feel free to fork or suggest improvements!
-
----
-
-Hazırsa bu içeriği doğrudan `README.md` dosyana kopyalayabilirsin.
-İstersen GitHub’a push'lamak için örnek `.gitignore`, `package.json` veya CI eklemelerini de yapabiliriz. Yardımcı olayım mı?
